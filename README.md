@@ -8,3 +8,6 @@ echo "Hello GitHub! My first practice." > hello.txt
 hiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 wlcome to final project
+
+
+second trying
